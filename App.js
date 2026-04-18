@@ -118,6 +118,7 @@ const styles = StyleSheet.create({
   profilePic: {
     width: '100%',
     height: '100%',
+    resizeMode: 'cover',
   },
   nameText: {
     fontSize: 26,
