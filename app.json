@@ -25,11 +25,6 @@
       "intentFilters": [
         {
           "action": "VIEW",
-          "data": [{ "scheme": "https" }],
-          "category": ["BROWSABLE", "DEFAULT"]
-        },
-        {
-          "action": "VIEW",
           "data": [{ "scheme": "mailto" }],
           "category": ["BROWSABLE", "DEFAULT"]
         },

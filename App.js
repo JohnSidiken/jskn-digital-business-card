@@ -107,9 +107,9 @@ const styles = StyleSheet.create({
     elevation: 8,
   },
   imageContainer: {
-    width: 130,
-    height: 130,
-    borderRadius: 65,
+    width: 140,
+    height: 140,
+    borderRadius: 70,
     borderWidth: 4,
     borderColor: '#B0E0E6',
     overflow: 'hidden',
